@@ -13,6 +13,10 @@ The dataset contains crop yield data for multiple countries and crops over sever
 Machine Learning models were trained and compared to build an efficient prediction system.
 
 ---
+demo 
+<img width="821" height="467" alt="{79788C2E-EFEB-40FB-B14C-28E39402EDC8}" src="https://github.com/user-attachments/assets/6ecbe742-5aad-45e6-8950-ba02cd4e7071" />
+
+---
 
 ## 📂 Dataset
 The dataset (`yield_df.csv`) contains the following columns:
